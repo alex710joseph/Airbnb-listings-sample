@@ -1,6 +1,6 @@
 # Airbnb-listings-sample
 
-A web application that fetches and displays San Francisco Airbnb data. This project demonstrates modular JavaScript architecture, JSON data processing, and responsive design using Bootstrap 5.
+A web application that fetches and displays San Francisco Airbnb data. This project demonstrates DOM manipulation using JavaScript, JSON data processing, and responsive design using Bootstrap 5.
 
 ## Project Requirements
 Listing Information: Displays the listing name, price, amenities, host details (name/photo), and property description.
